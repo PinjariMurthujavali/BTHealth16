@@ -1,0 +1,23 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2024-04-20 08:56:25.643424",
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "letterhead": null,
+ "modified": "2024-04-20 08:56:25.643424",
+ "modified_by": "Administrator",
+ "module": "health",
+ "name": "Lab Test Comparison Report Final",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "query": "SELECT\n  name\nFROM\n  `tabPatient`\n",
+ "ref_doctype": "Lab Test",
+ "report_name": "Lab Test Comparison Report Final",
+ "report_type": "Script Report",
+ "roles": []
+}
